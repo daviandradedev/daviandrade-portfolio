@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" fill="none">
+  <rect width="640" height="360" fill="#ca8a04" fill-opacity="0.08"/>
+  <rect x="88" y="64" width="464" height="232" rx="20" fill="#ffffff"/>
+  <rect x="120" y="96" width="220" height="16" rx="8" fill="#ca8a04"/>
+  <rect x="120" y="132" width="400" height="120" rx="14" fill="#fef9c3"/>
+  <rect x="148" y="160" width="120" height="64" rx="10" fill="#fde047"/>
+  <rect x="292" y="160" width="120" height="64" rx="10" fill="#facc15"/>
+  <rect x="436" y="160" width="56" height="64" rx="10" fill="#eab308"/>
+  <text x="320" y="320" text-anchor="middle" fill="#1e293b" font-family="Inter, system-ui, sans-serif" font-size="22" font-weight="800">SAGRES</text>
+</svg>
