@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" fill="none">
+  <rect width="640" height="360" fill="#6366f1" fill-opacity="0.08"/>
+  <rect x="96" y="72" width="448" height="216" rx="24" fill="#ffffff"/>
+  <rect x="128" y="104" width="160" height="152" rx="16" fill="#eef2ff"/>
+  <rect x="312" y="112" width="200" height="18" rx="9" fill="#4f46e5"/>
+  <rect x="312" y="146" width="168" height="10" rx="5" fill="#a5b4fc"/>
+  <rect x="312" y="176" width="184" height="64" rx="12" fill="#f5f3ff"/>
+  <text x="320" y="312" text-anchor="middle" fill="#1e293b" font-family="Inter, system-ui, sans-serif" font-size="22" font-weight="800">Asebili 2023</text>
+</svg>

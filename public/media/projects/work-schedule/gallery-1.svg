@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" fill="none">
+  <rect width="960" height="540" fill="#eff6ff"/>
+  <rect x="80" y="64" width="800" height="412" rx="24" fill="#ffffff" stroke="#bfdbfe" stroke-width="4"/>
+  <text x="120" y="130" fill="#1d4ed8" font-family="Inter, system-ui, sans-serif" font-size="28" font-weight="800">Schedule preview</text>
+  <rect x="120" y="160" width="720" height="48" rx="12" fill="#dbeafe"/>
+  <rect x="120" y="232" width="160" height="180" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+  <rect x="304" y="232" width="160" height="180" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+  <rect x="488" y="232" width="160" height="180" rx="16" fill="#dcfce7" stroke="#86efac"/>
+  <rect x="672" y="232" width="168" height="180" rx="16" fill="#f8fafc" stroke="#cbd5e1"/>
+</svg>
